@@ -8,16 +8,16 @@ body {
 	background-color: white;
 }
 
-.title {
+h1, h2, h3 {
 	color: rgb(123, 6, 47);
 }
 
-.topic {
+strong {
 	color: rgb(88, 23, 161);
 }
 
 a {
-	color: rgb(165, 38, 76);
+	color: rgb(88, 23, 161);
 	text-decoration: none;
 }
 
